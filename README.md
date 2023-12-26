@@ -4,9 +4,6 @@ Task Manager
 A simple and feature-rich To-Do application built using the MERN (MongoDB, Express.js, React, Node.js) stack. 
 Manage your tasks efficiently with real-time updates, user authentication, and a clean, responsive interface.
 
-Certainly! Here's a sample description for your MERN stack to-do app that you can use when publishing it on GitHub:
-
-
 Features:
 Responsive Design: The app is designed to work seamlessly across various devices, providing a consistent user experience on desktops, tablets, and mobile devices.
 
